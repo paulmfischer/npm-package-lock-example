@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/paulmfischer/npm-package-lock-example#readme",
   "dependencies": {
-    "lodash": "^4.16.0"
+    "moment": "^2.10.2"
   }
 }
