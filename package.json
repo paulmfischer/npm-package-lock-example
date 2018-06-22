@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/paulmfischer/npm-package-lock-example#readme",
   "dependencies": {
-    "moment": "^2.10.2"
+    "moment": "^2.22.2"
   }
 }
