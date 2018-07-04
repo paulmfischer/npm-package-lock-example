@@ -55,7 +55,7 @@ Repository to demonstrate the purpose of a `package-lock` file.  Starting with `
   ```
   Same version as what developer A installed!  Now you are thinking 'That is great and all but what if I want a newer version of `moment`?'  Well that is where [npm update](https://docs.npmjs.com/cli/update) comes along!
   
-* [package-lock-update]((https://github.com/paulmfischer/npm-package-lock-example/tree/package-lock-update)
+* [package-lock-update](https://github.com/paulmfischer/npm-package-lock-example/tree/package-lock-update)
 
   After some time, developer A realizes that we are using an older version of `moment` and would like to pull in latest so that we can get some of the bug fixes and new features.  There are two ways of doing that, one is to manually update the `package.json` file (which is not recommended!) and the other is to use `npm update [packageName]`.  So developer A runs `npm update moment` and afterwards this is what the `package.json`, `package-lock.json` and `moment`'s version in `package.json` files look like:
   `package.json`:
