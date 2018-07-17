@@ -1,6 +1,8 @@
 # npm-package-lock-example
 Repository to demonstrate the purpose of a `package-lock` file.  Starting with `master`, each branch demonstrates a different part in the progression of the code base.  Each branch is described below and what it represents in the time line of the code base and also the problem that is solved with the use of a `package-lock` file.  Starting with the `master` branch, the assumption is this is a new code base that has no dependencies yet and is running on node <=6 so no `package-lock.json` file is created.  Also, each branch includes the `node_modules` folder which is not something I condone but is being done for demonstration purposes only.
 
+[slidedeck](https://slides.com/paulfischer/deck)
+
 
 ## Branches
 * [master](https://github.com/paulmfischer/npm-package-lock-example)
